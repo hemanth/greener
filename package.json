@@ -1,0 +1,34 @@
+{
+  "name": "greener",
+  "version": "0.0.0",
+  "description": "Fetches all your node modules and keeps them green!",
+  "license": "MIT",
+  "repository": "hemanth/greener",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "greenkeeper",
+    "green",
+    "npm",
+    "update",
+    "helper",
+    "util"
+  ],
+  "dependencies": {
+    "meow": "^3.3.0",
+    "npm-owned-modules": "^0.1.4",
+    "which": "^1.1.2"
+  }
+}
