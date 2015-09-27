@@ -1,6 +1,6 @@
 {
   "name": "greener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetches all your node modules and keeps them green!",
   "license": "MIT",
   "repository": "hemanth/greener",
