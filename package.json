@@ -15,8 +15,12 @@
   "scripts": {
     "test": "mocha"
   },
+  "bin": {
+    "greener": "cli.js"
+  },
   "files": [
-    "index.js"
+    "index.js",
+    "cli.js"
   ],
   "keywords": [
     "greenkeeper",
