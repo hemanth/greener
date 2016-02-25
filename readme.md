@@ -2,7 +2,7 @@
 
 > [greenkeeper](http://greenkeeper.io/) helper.
 
-__Fetches all your node modules and keeps them green.__
+__Enables greenkeeper integration for all your public github repositories.__
 
 
 ## Install
