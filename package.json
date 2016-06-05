@@ -31,8 +31,8 @@
     "util"
   ],
   "dependencies": {
-    "meow": "^3.3.0",
-    "npm-owned-modules": "^0.1.4",
-    "which": "^1.1.2"
+    "meow": "3.3.0",
+    "npm-owned-modules": "0.1.4",
+    "which": "1.1.2"
   }
 }
