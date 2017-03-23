@@ -33,6 +33,6 @@
   "dependencies": {
     "meow": "^3.7.0",
     "npm-owned-modules": "^0.1.7",
-    "which": "^1.2.11"
+    "which": "^1.2.13"
   }
 }
