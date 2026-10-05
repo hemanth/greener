@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 'use strict';
-var meow = require('meow');
+var meow = ((m) => (m && m.default) ? m.default : m)(require(''meow''));
 var greener = require('./');
-var which = require('which');
+var which = ((m) => (m && m.default) ? m.default : m)(require(''which''));
 
 var cli = meow({
 	help: [
